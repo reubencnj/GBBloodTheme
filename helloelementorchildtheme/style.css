@@ -11,3 +11,9 @@ Text Domain:	 Hello-Elementor-child
 
 /* =Theme customization starts here
 ------------------------------------------------------- */
+#rj_main_booking_offcanvas{
+  background-color:#28325B;
+}
+#rj_main_booking_offcanvas .accordion-button, #rj_main_booking_offcanvas .accordion-item{
+	background:none !important;
+}
