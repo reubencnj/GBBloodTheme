@@ -18,5 +18,10 @@ Text Domain:	 Hello-Elementor-child
 	background:none !important;
 }
 #clinicnamesearch{
-	width:100%;	
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #bfbfbf38;
+    background: none;
+    border-radius: 4px;
+    margin: 15px 0px;
 }
