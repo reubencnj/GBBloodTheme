@@ -17,3 +17,6 @@ Text Domain:	 Hello-Elementor-child
 #rj_main_booking_offcanvas .accordion-button, #rj_main_booking_offcanvas .accordion-item{
 	background:none !important;
 }
+#clinicnamesearch{
+	width:100%;	
+}
